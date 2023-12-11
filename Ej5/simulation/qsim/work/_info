@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\User\Documents\Quartus\Guia5\simulation\qsim
+vrestador
+Z1 IgY:>HjEof6lB[m04j1dFR2
+Z2 VUflZ^VDJ5ocFA[mKUA3aJ2
+Z3 dC:\Users\User\Documents\Quartus\Guia5\simulation\qsim
+Z4 w1698933897
+Z5 8guia5.vo
+Z6 Fguia5.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|guia5.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 Em8]Jdnb=>hEmABXoFn]21
+!s85 0
+Z11 !s108 1698933898.536000
+Z12 !s107 guia5.vo|
+!s101 -O0
+vrestador_vlg_check_tst
+!i10b 1
+!s100 90Y7TTKGX<cZ:7c[RUNjC1
+IQP^BKj@<QH4OJNRHa68N:0
+Z13 VRlhc48?aahoZO2<Jg7S@g1
+R3
+Z14 w1698933896
+Z15 8guia5.vt
+Z16 Fguia5.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z17 !s108 1698933898.692000
+Z18 !s107 guia5.vt|
+Z19 !s90 -work|work|guia5.vt|
+!s101 -O0
+R9
+vrestador_vlg_sample_tst
+!i10b 1
+!s100 TLgHkCj3L]3DSoY0EJYie0
+Ie61DSVZo4oCf_kR`]4aoU1
+VgIa6_jUiZnFW5@_MzBgQc0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+vrestador_vlg_vec_tst
+!i10b 1
+!s100 3k2P4^U8J1i<>hKJT0ABn2
+Io[3mJGf7Y;mCKPH?B7>he1
+Z20 V>URgjUo^`HXhZZlKZAIcF0
+R3
+R14
+R15
+R16
+L0 181
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9

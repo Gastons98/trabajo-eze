@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\User\Documents\Proyectos Quartus\TyDD2_Guias\parteB\simulation\qsim
+vsumador_completo
+Z1 IWJh=jg=dcEnce:>FA6HHh3
+Z2 VFZ2n:G?V>Y?XGCKDH8Y5<3
+Z3 dC:\Users\User\Documents\Proyectos Quartus\TyDD2_Guias\parteB\simulation\qsim
+Z4 w1699030439
+Z5 8sumador_completo.vo
+Z6 Fsumador_completo.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 6=G5ZRkI>z3`EIh8iM8f?0
+Z10 !s108 1699030444.656000
+Z11 !s107 sumador_completo.vo|
+Z12 !s90 -work|work|sumador_completo.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vsumador_completo_ffD
+Z13 I4WnkoK7HWHI?gXFU^AT@63
+Z14 VKnX1<9YCmielGzfh<=C8J1
+R3
+Z15 w1699033382
+R5
+R6
+L0 31
+R7
+r1
+31
+R12
+R8
+Z16 nsumador_completo_ff@d
+!i10b 1
+Z17 !s100 K92N]SFVU<Gg=REz;92Vo3
+!s85 0
+Z18 !s108 1699033383.025000
+R11
+!s101 -O0
+vsumador_completo_ffD_vlg_check_tst
+!i10b 1
+Z19 !s100 ?jEVHz=hiao@m`GKD7TOc2
+Z20 IXz2OCB5F=T6_zXM1G89N`3
+Z21 VUG5;g`Q<PlKC]POgi4Qff3
+R3
+Z22 w1699033381
+Z23 8sumador_completo.vt
+Z24 Fsumador_completo.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z25 !s108 1699033383.427000
+Z26 !s107 sumador_completo.vt|
+Z27 !s90 -work|work|sumador_completo.vt|
+!s101 -O0
+R8
+Z28 nsumador_completo_ff@d_vlg_check_tst
+vsumador_completo_ffD_vlg_sample_tst
+!i10b 1
+Z29 !s100 3Y[=b0ImkeL4D8BGme28M3
+Z30 Ik81`[;7IjHQh9DbaV8;9z0
+Z31 VEP9@KlR0cXM;[2ih22<7H0
+R3
+R22
+R23
+R24
+L0 29
+R7
+r1
+!s85 0
+31
+R25
+R26
+R27
+!s101 -O0
+R8
+Z32 nsumador_completo_ff@d_vlg_sample_tst
+vsumador_completo_ffD_vlg_vec_tst
+!i10b 1
+Z33 !s100 79o>DKSeig`UGe@`DW[Z@3
+Z34 I2_k17b]>XBE>7FX[_6mSk1
+Z35 Vl6NIBLR8J`celjIm0I>dJ3
+R3
+R22
+R23
+R24
+Z36 L0 185
+R7
+r1
+!s85 0
+31
+R25
+R26
+R27
+!s101 -O0
+R8
+Z37 nsumador_completo_ff@d_vlg_vec_tst
+vsumador_completo_vlg_check_tst
+Z38 IJ[b4NfAUa53d7>o?aTKSG0
+Z39 VO=Fff6cd_cN>WCf@hEV602
+R3
+Z40 w1699030438
+R23
+R24
+L0 57
+R7
+r1
+31
+Z41 !s108 1699030444.823000
+Z42 !s107 sumador_completo.vt|
+R27
+R8
+Z43 !s100 4b>Pz:5k=YF`WEGd?O5S<0
+!i10b 1
+!s85 0
+!s101 -O0
+vsumador_completo_vlg_sample_tst
+Z44 Im1hhVF4jk<`ZHDklIZHjP2
+Z45 VdlCZZGdiKD`NL91J_HG^d1
+R3
+R40
+R23
+R24
+L0 29
+R7
+r1
+31
+R41
+R42
+R27
+R8
+Z46 !s100 dG4[82X]lfSWC4:<o7ZV`2
+!i10b 1
+!s85 0
+!s101 -O0
+vsumador_completo_vlg_vec_tst
+Z47 Ia99KhnXXgQNeKn=If:G=Z3
+Z48 VHlOb<KI2PN?8::mKGXccC1
+R3
+R40
+R23
+R24
+Z49 L0 171
+R7
+r1
+31
+R41
+R42
+R27
+R8
+Z50 !s100 IVlMT0jl:ceKS3h:IZL8e1
+!i10b 1
+!s85 0
+!s101 -O0

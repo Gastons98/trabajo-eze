@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\User\Documents\Quartus\Guia5\Parte A\simulation\qsim
+vej_combinacional
+Z1 Ima]4LGfS1JYKzggJHh1Y`2
+Z2 V04mdB9<<UgXK9BO?Ho6=V3
+Z3 dC:\Users\User\Documents\Quartus\Guia5\Parte A\simulation\qsim
+Z4 w1698939696
+Z5 8circ_combinacional.vo
+Z6 Fcirc_combinacional.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|circ_combinacional.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 a21KGA5fV43EoS18PWzjn3
+!s85 0
+Z11 !s108 1698939697.742000
+Z12 !s107 circ_combinacional.vo|
+!s101 -O0
+vej_combinacional_vlg_check_tst
+!i10b 1
+Z13 !s100 WJJanIfQ[[dSVRFWnRoQH2
+Z14 IXMKW2igHY9N^KXmZ0c3mk1
+Z15 VUokffe]E?56^::BjN64lS2
+R3
+Z16 w1698939695
+Z17 8circ_combinacional.vt
+Z18 Fcirc_combinacional.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z19 !s108 1698939697.976000
+Z20 !s107 circ_combinacional.vt|
+Z21 !s90 -work|work|circ_combinacional.vt|
+!s101 -O0
+R9
+vej_combinacional_vlg_sample_tst
+!i10b 1
+Z22 !s100 egR;;og^EeXz3AY05K[3e0
+Z23 Iim=V5UhSKS_jn7i7Ib?]g3
+Z24 VEKO:]M7CnjSP`QDCbF=m91
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vej_combinacional_vlg_vec_tst
+!i10b 1
+Z25 !s100 X4Q6f;dDOeccMk6E^DjNZ3
+Z26 I_PTdiKB6@nX:EG>3[<S`n0
+Z27 VG=QzUP8cdg^j<H_WMkJV=1
+R3
+R16
+R17
+R18
+Z28 L0 154
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9

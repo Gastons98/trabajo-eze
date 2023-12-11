@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\User\Documents\Proyectos Quartus\TyDD2_Guias\parteD\simulation\qsim
+vmaq_estado
+Z1 !s100 L93HY<=W67DjbXnGCWH;A2
+Z2 ID7RR_SNfVMi74ZlmNbJ;Q3
+Z3 VQ09Oi@JV2iSPZaB7;MHUb3
+Z4 dC:\Users\User\Documents\Proyectos Quartus\TyDD2_Guias\parteD\simulation\qsim
+Z5 w1699223390
+Z6 8maq_estado.vo
+Z7 Fmaq_estado.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|maq_estado.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1699223391.733000
+Z12 !s107 maq_estado.vo|
+!s101 -O0
+vmaq_estado_vlg_check_tst
+!i10b 1
+Z13 !s100 36acznzB?eXgCMgzkgC:D2
+Z14 IY?K?oV8JXal6BYAUOUX7D2
+Z15 VeB;4Q=lT74b]f;ITgPj0?1
+R4
+Z16 w1699223389
+Z17 8maq_estado.vt
+Z18 Fmaq_estado.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z19 !s108 1699223391.920000
+Z20 !s107 maq_estado.vt|
+Z21 !s90 -work|work|maq_estado.vt|
+!s101 -O0
+R10
+vmaq_estado_vlg_sample_tst
+!i10b 1
+Z22 !s100 ^0mj6YlV5TO=CmcZ8Z1SI1
+Z23 Ie@UCZ_;jT8>Vkb>mQM2oY1
+Z24 VS>Lh?3eWzVm;VkYnJNi8z3
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vmaq_estado_vlg_vec_tst
+!i10b 1
+!s100 lc9db8iJHScdhWk8i13Id0
+Im5=dDNRS43BS9@:Z7aA[f1
+Z25 VSBWdSf:H;YOek21^[z;OQ3
+R4
+R16
+R17
+R18
+Z26 L0 237
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

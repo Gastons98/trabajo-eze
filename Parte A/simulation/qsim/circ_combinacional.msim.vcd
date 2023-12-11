@@ -1,0 +1,82 @@
+$comment
+	File created using the following command:
+		vcd file circ_combinacional.msim.vcd -direction
+$end
+$date
+	Thu Nov 02 12:41:39 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module ej_combinacional_vlg_vec_tst $end
+$var reg 1 ! sw1 $end
+$var reg 1 " sw2 $end
+$var wire 1 # led $end
+$var wire 1 $ sampler $end
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + led~output_o $end
+$var wire 1 , sw2~input_o $end
+$var wire 1 - sw1~input_o $end
+$var wire 1 . led~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+x#
+x$
+0%
+1&
+x'
+1(
+1)
+1*
+x+
+0,
+0-
+x.
+$end
+#2000
+1"
+0$
+#2769
+1,
+#3143
+0.
+#4000
+1!
+0"
+1$
+#4769
+1-
+#4874
+0,
+#5718
+1+
+1#
+#6000
+1"
+0$
+#6769
+1,
+#7678
+x.
+#8000
+0!
+0"
+1$
+#8874
+0,
+0-
+#10000

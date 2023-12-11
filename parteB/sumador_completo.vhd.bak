@@ -1,0 +1,25 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity sumador_completo is
+	port(
+		a,b,cin: in std_logic_vector(2 downto 0);
+		cout,suma: out std_logic_vector(1 downto 0)
+		);
+end sumador_completo;
+
+architecture behavioral of sumador_completo is 
+begin
+	case a,b,cin is 
+		when "000" => cout,suma <= "00";
+		when "001" => cout,suma <= "01";
+		when "010" => cout,suma <= "01";
+		when "011" => cout,suma <= "10";
+		when "100" => cout,suma <= "01";
+		when "101" => cout,suma <= "10";
+		when "110" => cout,suma <= "10";
+		when others => cout,suma <= "11";
+	end case;
+end behavioral;
+ 
+

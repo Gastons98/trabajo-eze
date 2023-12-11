@@ -1,0 +1,98 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\User\Documents\Proyectos Quartus\TyDD2_Guias\parteB\simulation\modelsim
+Eff_d
+Z1 w1699024996
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\User\Documents\Proyectos Quartus\TyDD2_Guias\parteB\simulation\modelsim
+Z7 8C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/ff_d.vhd
+Z8 FC:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/ff_d.vhd
+l0
+L6
+VdfBeb@DL?095=KO:>^=IC2
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1699035318.176000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/ff_d.vhd|
+Z12 !s107 C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/ff_d.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 C>2c:c1Z]YW?Kl^P;ongl2
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 4 ff_d 0 22 dfBeb@DL?095=KO:>^=IC2
+l14
+L13
+VOK^n4N<>gOgO[^X1FPGJD0
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 RJTfm[?oQKT7igHRCkfGC0
+!i10b 1
+Esumador_completo_ffd
+Z15 w1699031661
+R4
+R5
+R6
+Z16 8C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/sumador_completo_ffD.vhd
+Z17 FC:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/sumador_completo_ffD.vhd
+l0
+L4
+V`:BR>Okl;1<8<b]nC8hhB3
+R9
+31
+Z18 !s108 1699035318.738000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/sumador_completo_ffD.vhd|
+Z20 !s107 C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/sumador_completo_ffD.vhd|
+R13
+R14
+!s100 9@g;UOkHYOAC0VfcUN>=n2
+!i10b 1
+Abehavioral
+R4
+R5
+DEx4 work 20 sumador_completo_ffd 0 22 `:BR>Okl;1<8<b]nC8hhB3
+l24
+L11
+VTmZi9XlZQMZIhRDGiK`gZ2
+R9
+31
+R18
+R19
+R20
+R13
+R14
+!s100 f23;nziLLJm8X1?FXLDcY0
+!i10b 1
+Etb_sumador_completo
+w1699034939
+R4
+R5
+R6
+8C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd
+FC:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd
+l0
+L4
+VLGkFHFT>CX]@Xiz^MBkoX1
+!s100 ffYW:2]5>7<U@zMi]`JFU2
+R9
+31
+!i10b 1
+!s108 1699035318.923000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd|
+!s107 C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd|
+R13
+R14

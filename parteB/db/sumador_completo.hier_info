@@ -1,0 +1,43 @@
+|sumador_completo_ffD
+in_a => ff_d:d1.d
+in_b => ff_d:d2.d
+in_cin => ff_d:d3.d
+clk => ff_d:d1.clk
+clk => ff_d:d2.clk
+clk => ff_d:d3.clk
+clk => ff_d:d4.clk
+clk => ff_d:d5.clk
+out_suma <= ff_d:d5.q
+out_cout <= ff_d:d4.q
+
+
+|sumador_completo_ffD|ff_d:d1
+d => q~reg0.DATAIN
+clk => q~reg0.CLK
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador_completo_ffD|ff_d:d2
+d => q~reg0.DATAIN
+clk => q~reg0.CLK
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador_completo_ffD|ff_d:d3
+d => q~reg0.DATAIN
+clk => q~reg0.CLK
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador_completo_ffD|ff_d:d4
+d => q~reg0.DATAIN
+clk => q~reg0.CLK
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador_completo_ffD|ff_d:d5
+d => q~reg0.DATAIN
+clk => q~reg0.CLK
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

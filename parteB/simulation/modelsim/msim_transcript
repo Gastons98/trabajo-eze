@@ -1,0 +1,89 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do sumador_completo_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/ff_d.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ff_d
+# -- Compiling architecture behavioral of ff_d
+# vcom -93 -work work {C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/sumador_completo_ffD.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity sumador_completo_ffD
+# -- Compiling architecture behavioral of sumador_completo_ffD
+# 
+# vcom -93 -work work {C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_sumador_completo
+# -- Compiling architecture behavioral of tb_sumador_completo
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(12): (vcom-1136) Unknown identifier "std_logic".
+# 
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(13): (vcom-1136) Unknown identifier "std_logic".
+# 
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(18): (vcom-1136) Unknown identifier "std_logic".
+# 
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(18): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(19): (vcom-1136) Unknown identifier "std_logic".
+# 
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(19): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(20): (vcom-1136) Unknown identifier "std_logic".
+# 
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(20): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(21): (vcom-1136) Unknown identifier "std_logic".
+# 
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(21): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(23): (vcom-1136) Unknown identifier "std_logic".
+# 
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(24): (vcom-1136) Unknown identifier "std_logic".
+# 
+# ** Warning: [4] C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(27): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(43): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(45): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(53): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(53): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(53): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(54): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(54): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(54): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(55): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(55): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(55): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(56): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(56): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(56): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(57): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(57): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(57): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(58): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(58): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(58): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(59): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(59): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(59): Enumeration literal '0' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(60): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(60): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(60): Enumeration literal '1' is not of type (error).
+# ** Error: C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd(63): VHDL Compiler exiting
+# ** Error: C:/altera/13.0sp1/modelsim_ase/win32aloem/vcom failed.
+# Error in macro ./sumador_completo_run_msim_rtl_vhdl.do line 11
+# C:/altera/13.0sp1/modelsim_ase/win32aloem/vcom failed.
+#     while executing
+# "vcom -93 -work work {C:/Users/User/Documents/Proyectos Quartus/TyDD2_Guias/parteB/tb_sumador_completo.vhd}"
